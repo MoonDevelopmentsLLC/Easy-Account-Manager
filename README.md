@@ -1,10 +1,37 @@
 # Easy Account Manager
-Easyaccountmanager.com
 
-Please visit the website for more information. Development is currently taking priority over filling the github information.
+![Project Banner](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/iGRQtgGDznvqs8xm/astala-screen-2-capture-Ms88vvmcyHdSCgft.PNG)
 
-Manage Your Accounts with Ease.
+**EasyAccountManager.com**
 
-Keep your logins separate, secure, and effortlessly autofilled-on-demand-only. 
+Manage your accounts with ease, keep logins separate, secure, and available on demand.
 
-Support and maintain over 50+ accounts from different services on a single device.
+## Overview
+
+Easy Account Manager is a lightweight solution for managing multiple accounts on a single device.
+
+It is designed to store, organize, and access credentials for different services without requiring mixing session data between accounts.
+
+## Features
+
+- Secure storage of multiple account credentials  
+- On-demand autofill functionality  
+- Support for 50+ accounts across different services  
+- Separation of accounts and session data  
+- Local-first storage approach focused on privacy  
+
+## Website
+
+For more information and updates:
+
+https://easyaccountmanager.com
+
+## Status
+
+Development is currently prioritized over completing GitHub documentation.
+
+Additional setup instructions, technical details, and screenshots will be added in future updates.
+
+## License
+
+License information will be added in a future update. At this moment in time it is not permitted to use this code without purchasing a support license from MoonDevelopments (used to support development costs)
