@@ -16,7 +16,7 @@ It is designed to store, organize, and access credentials for different services
 
 - Secure storage of multiple account credentials  
 - On-demand autofill functionality  
-- Support for 50+ accounts across different services  
+- Support for accounts across different services tested with over 50 at a time running stable!
 - Separation of accounts and session data  
 - Local-first storage approach focused on privacy  
 
@@ -31,6 +31,8 @@ https://easyaccountmanager.com
 Development is currently prioritized over completing GitHub documentation.
 
 Additional setup instructions, technical details, and screenshots will be added in future updates.
+
+Releases of nightly development editions have begun and will be uploaded as they come.
 
 ## License
 
