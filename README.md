@@ -36,4 +36,4 @@ Releases of nightly development editions have begun and will be uploaded as they
 
 ## License
 
-License information will be added in a future update. At this moment in time it is not permitted to use this code in your own projects without purchasing a support license from MoonDevelopments (used to support development costs). The app will be open source, so if you are able to wait, it can be obtained for free and without figuring out the code yourself :) .
+License information will be added in a future update. At this moment in time it is not permitted to use this code in your own projects without purchasing a support license from MoonDevelopments (used to support development costs). The app will be open source, so if you are able to wait, it can evenutally be obtained for free and without figuring out the code yourself :) .
