@@ -1,6 +1,6 @@
 # Easy Account Manager
 
-![Project Banner](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/iGRQtgGDznvqs8xm/astala-screen-2-capture-Ms88vvmcyHdSCgft.PNG)
+![Project Banner](https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=329,fit=crop/iGRQtgGDznvqs8xm/landscape-screenshot-G9E2Gt1LxB2t3W9d.PNG)
 
 **EasyAccountManager.com**
 
